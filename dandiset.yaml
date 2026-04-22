@@ -26,8 +26,8 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: spike sorting technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 322085570634
-  numberOfFiles: 30
+  numberOfBytes: 332877420423
+  numberOfFiles: 31
   numberOfSubjects: 20
   schemaKey: AssetsSummary
   species:
@@ -40,7 +40,7 @@ assetsSummary:
   - ElectrodeGroup
   - Units
   - ElectricalSeries
-citation: Liu, Wanyi; Worthy, Andrew; Emanuel, Alan (2026) Synchrony within Abeta
+citation: Liu, Wanyi; Worthy, Andrew E; Emanuel, Alan J (2026) Synchrony within Abeta
   mechanoreceptor subtypes governs signal propagation to primary somatosensory cortex
   (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001788/draft
 contributor:
@@ -61,7 +61,7 @@ contributor:
     schemaKey: Affiliation
   identifier: 0000-0002-9992-2675
   includeInCitation: true
-  name: Worthy, Andrew
+  name: Worthy, Andrew E
   roleName:
   - dcite:Author
   schemaKey: Person
@@ -72,7 +72,7 @@ contributor:
   email: alan.emanuel@emory.edu
   identifier: 0000-0002-6479-4263
   includeInCitation: true
-  name: Emanuel, Alan
+  name: Emanuel, Alan J
   roleName:
   - dcite:ContactPerson
   - dcite:Author
