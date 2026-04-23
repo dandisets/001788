@@ -16,30 +16,30 @@ assetsSummary:
     name: Neurodata Without Borders (NWB)
     schemaKey: StandardsType
   measurementTechnique:
-  - name: analytical technique
+  - name: surgical technique
     schemaKey: MeasurementTechniqueType
   - name: signal filtering technique
     schemaKey: MeasurementTechniqueType
-  - name: surgical technique
-    schemaKey: MeasurementTechniqueType
   - name: multi electrode extracellular electrophysiology recording technique
+    schemaKey: MeasurementTechniqueType
+  - name: analytical technique
     schemaKey: MeasurementTechniqueType
   - name: spike sorting technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 310451276936
+  numberOfBytes: 310476242207
   numberOfFiles: 35
-  numberOfSubjects: 22
+  numberOfSubjects: 23
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
     name: Mus musculus - House mouse
     schemaKey: SpeciesType
   variableMeasured:
-  - ProcessingModule
-  - LFP
+  - ElectricalSeries
   - ElectrodeGroup
   - Units
-  - ElectricalSeries
+  - ProcessingModule
+  - LFP
 citation: Liu, Wanyi; Worthy, Andrew E; Emanuel, Alan J (2026) Synchrony within Abeta
   mechanoreceptor subtypes governs signal propagation to primary somatosensory cortex
   (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001788/draft
