@@ -42,7 +42,7 @@ assetsSummary:
   - LFP
 citation: Liu, Wanyi; Worthy, Andrew E; Emanuel, Alan J (2026) Synchrony within Abeta
   mechanoreceptor subtypes governs signal propagation to primary somatosensory cortex
-  (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001788/draft
+  (Version 0.260921.1942) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.001788/0.260921.1942
 contributor:
 - affiliation:
   - identifier: https://ror.org/03czfpz43
@@ -79,25 +79,39 @@ contributor:
   schemaKey: Person
   url: https://www.emanuellab.com
 dateCreated: '2026-04-21T02:19:19.769755+00:00'
+datePublished: '2026-09-21T19:42:16.966601+00:00'
 description: Primary somatosensory cortex and sensory neuron multielectrode array
   recordings of responses to optogenetic activation of CatCh-expressing Abeta LTMRs.
+doi: 10.48324/dandi.001788/0.260921.1942
 ethicsApproval:
 - contactPoint:
     schemaKey: ContactPoint
   identifier: PROTO202200102
   schemaKey: EthicsApproval
-id: DANDI:001788/draft
+id: DANDI:001788/0.260921.1942
 identifier: DANDI:001788
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001788/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001788/0.260921.1942/assets.yaml
 name: Synchrony within Abeta mechanoreceptor subtypes governs signal propagation to
   primary somatosensory cortex
+publishedBy:
+  endDate: '2026-09-21T19:42:16.966601+00:00'
+  id: urn:uuid:9aa70065-016f-4f8b-a480-928aac17d0e4
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2026-09-21T19:42:16.966601+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:54f1724c-fb66-4e90-b68c-f35fdcf7c0e5
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.7.0
-url: https://dandiarchive.org/dandiset/001788/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001788/0.260921.1942
+version: 0.260921.1942
 wasGeneratedBy: []
